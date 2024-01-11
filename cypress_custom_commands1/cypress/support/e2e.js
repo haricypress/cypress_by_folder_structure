@@ -17,6 +17,6 @@
 import './commands'
 import "./login"
 
-require('cypress-xpath'); 
+
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
