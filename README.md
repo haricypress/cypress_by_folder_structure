@@ -1,1 +1,1 @@
-﻿# cypress_by_folder_structure
+command  :  npm install 
