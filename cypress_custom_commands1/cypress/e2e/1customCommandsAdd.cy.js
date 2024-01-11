@@ -11,10 +11,7 @@ describe("custom commands add", () => {
         cy.login_1("Admin", "admin123")
         cy.wait(5000)
         cy.logout_1()
-        
+
     })
-
 })
-
-
 
