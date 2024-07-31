@@ -77,9 +77,10 @@ describe("main test suite", () => {
 
 // describe("1.test suite", () => {
 
-//     // test cases    -   .skip and .only tags work
-//     // hooks         -   .skip and .only tags not work
-//     // test suites   -   .skip work and .only not work
+//     // test-cases    -   .skip work ,        .only work
+//     // test-suites   -   .skip work ,        .only not work
+//     // hooks         -   .skip not work,     .only  not work
+
 
 
 //     beforeEach("beforeeach hook", () => {
